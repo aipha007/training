@@ -1,0 +1,2 @@
+V1.0 - 2023.10.30
+	* Initial release of Traveo TLD816K Evalkit software in the IDC

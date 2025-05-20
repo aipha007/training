@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iarUserArgVars>
+    <group name="CUSTOM_VARS" active="true">
+        <variable>
+            <name>DIE</name>
+            <value>tviic2d4m</value>
+        </variable>
+        <variable>
+            <name>LINK_LOCATION</name>
+            <value>flash</value>
+        </variable>
+        <variable>
+            <name>BG_ROOT_PATH</name>
+            <value>..\..\..\..\..\GfxDriver</value>
+        </variable>
+        <variable>
+            <name>LIB_OUT_PATH</name>
+            <value>$BG_ROOT_PATH$\01_bin\iar\$DIE$</value>
+        </variable>
+        <variable>
+            <name>SDL</name>
+            <value>SDL</value>
+        </variable>
+    </group>
+</iarUserArgVars>
